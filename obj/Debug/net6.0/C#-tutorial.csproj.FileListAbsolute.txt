@@ -1,0 +1,14 @@
+C:\Users\j.osterkamp\source\repos\C#-tutorial\bin\Debug\net6.0\C#-tutorial.exe
+C:\Users\j.osterkamp\source\repos\C#-tutorial\bin\Debug\net6.0\C#-tutorial.deps.json
+C:\Users\j.osterkamp\source\repos\C#-tutorial\bin\Debug\net6.0\C#-tutorial.runtimeconfig.json
+C:\Users\j.osterkamp\source\repos\C#-tutorial\bin\Debug\net6.0\C#-tutorial.dll
+C:\Users\j.osterkamp\source\repos\C#-tutorial\bin\Debug\net6.0\C#-tutorial.pdb
+C:\Users\j.osterkamp\source\repos\C#-tutorial\obj\Debug\net6.0\C#-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.osterkamp\source\repos\C#-tutorial\obj\Debug\net6.0\C#-tutorial.AssemblyInfoInputs.cache
+C:\Users\j.osterkamp\source\repos\C#-tutorial\obj\Debug\net6.0\C#-tutorial.AssemblyInfo.cs
+C:\Users\j.osterkamp\source\repos\C#-tutorial\obj\Debug\net6.0\C#-tutorial.csproj.CoreCompileInputs.cache
+C:\Users\j.osterkamp\source\repos\C#-tutorial\obj\Debug\net6.0\C#-tutorial.dll
+C:\Users\j.osterkamp\source\repos\C#-tutorial\obj\Debug\net6.0\refint\C#-tutorial.dll
+C:\Users\j.osterkamp\source\repos\C#-tutorial\obj\Debug\net6.0\C#-tutorial.pdb
+C:\Users\j.osterkamp\source\repos\C#-tutorial\obj\Debug\net6.0\C#-tutorial.genruntimeconfig.cache
+C:\Users\j.osterkamp\source\repos\C#-tutorial\obj\Debug\net6.0\ref\C#-tutorial.dll
